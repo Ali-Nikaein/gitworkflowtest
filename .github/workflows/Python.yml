@@ -24,4 +24,4 @@ jobs:
         
     - name: Run Tests
       run: |
-        python unit_test.py unit_test
+        python unit_test.py
